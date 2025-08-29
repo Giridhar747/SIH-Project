@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150" fill="none">
+  <rect x="10" y="10" width="280" height="130" rx="15" fill="#E0F7FA"/>
+  <text x="60" y="40" font-family="Arial" font-size="16" font-weight="bold" fill="#333366">Seed your Bank Account</text>
+  <text x="60" y="65" font-family="Arial" font-size="16" font-weight="bold" fill="#333366">with Aadhaar</text>
+  <text x="60" y="90" font-family="Arial" font-size="16" font-weight="bold" fill="#333366">to Receive Financial Assistance.</text>
+  
+  <!-- Mobile Phone Left -->
+  <rect x="60" y="100" width="50" height="90" rx="5" fill="#4CAF50" />
+  <rect x="65" y="105" width="40" height="70" rx="2" fill="white" />
+  <circle cx="85" cy="185" r="3" fill="white" />
+  
+  <!-- Mobile Phone Right with Download -->
+  <rect x="190" y="100" width="50" height="90" rx="5" fill="#4CAF50" />
+  <rect x="195" y="105" width="40" height="70" rx="2" fill="white" />
+  <circle cx="215" cy="185" r="3" fill="white" />
+  <path d="M215 125 L215 155 M205 145 L215 155 L225 145" stroke="#4CAF50" stroke-width="3" />
+  
+  <!-- Coins -->
+  <circle cx="150" cy="60" r="10" fill="#FFD700" stroke="#FFA000" stroke-width="2" />
+  <circle cx="170" cy="50" r="10" fill="#FFD700" stroke="#FFA000" stroke-width="2" />
+  <circle cx="190" cy="60" r="10" fill="#FFD700" stroke="#FFA000" stroke-width="2" />
+  <circle cx="130" cy="50" r="10" fill="#FFD700" stroke="#FFA000" stroke-width="2" />
+</svg>

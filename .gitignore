@@ -1,0 +1,17 @@
+# Node.js
+Backend/node_modules/
+Frontend/node_modules/
+
+# React Native
+Frontend/.expo/
+Frontend/.expo-shared/
+Frontend/android/
+Frontend/ios/build/
+Frontend/ios/Pods/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Environment
+*.env
